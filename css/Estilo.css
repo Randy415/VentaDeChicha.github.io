@@ -1,0 +1,25 @@
+.Estilo{
+          border: solid 2px blue;         
+          width: 80%;         
+          margin: 0 auto;
+          padding: 5px; 
+        }
+    fieldset{
+    	margin-botton: 10px;
+    } 
+    legend{
+    	border: solid 1px blue;
+    	padding: 3px;
+    	font-weight: bold;
+    	border-radius: 30px;
+    	background: ligthgray;
+    }
+
+    #foto{
+    	margin: 5px;
+    	border: solid 4px black;
+    }
+
+    body{
+    	background-color: #A3E4D7;
+    } 
